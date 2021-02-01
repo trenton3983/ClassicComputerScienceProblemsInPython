@@ -4,7 +4,7 @@ This repository contains source code to accompany the book *Classic Computer Sci
 ![Classic Computer Science Problems in Python Cover](cover.jpg)
 
 ## Get the Book
-- [Manning](https://www.manning.com/books/classic-computer-science-problems-in-python) the publisher sells both hard copy and DRM-free eBook editions
+- [Manning](https://www.manning.com/books/classic-computer-science-problems-in-python?a_aid=oaksnow&a_bid=d326fe0b) the publisher sells both hard copy and DRM-free eBook editions
 - [Amazon](https://amzn.to/2ui96Op) if you buy the hard copy from Amazon, it will come with a way to download the eBook for free from the publisher
 
 ## Versioning and Packages
@@ -20,4 +20,13 @@ You can find general questions and descriptive information about the book on the
 All of the source code in this repository is released under the Apache License version 2.0. See `LICENSE`.
 
 ## Other Books and Languages
-This is the second book in the Classic Computer Science Problems series by David Kopec and published by Manning. It aims to teach classic computer science problems in a Pythonic way. You may also want to checkout the first book in the series, *Classic Computer Science Problems in Swift*, which covers most of the same problems in a more Swifty way. You can check out the repository for that book on [GitHub as well](https://github.com/davecom/ClassicComputerScienceProblemsInSwift). A reader has also reimplemented the first five chapters of the book [in C++](https://github.com/araya-andres/classic_computer_sci).
+Official Books from the Series by @davecom 
+- [Classic Computer Science Problems in Java](https://github.com/davecom/ClassicComputerScienceProblemsInJava)
+- [Classic Computer Science Problems in Swift](https://github.com/davecom/ClassicComputerScienceProblemsInSwift)
+
+Ports
+- [C++ implementation by @aray-andres](https://github.com/araya-andres/classic_computer_sci)
+- [Go implementation by @arlima](https://github.com/arlima/problemas_classicos_CC)
+- [PHP implementation by @SaschaKersken (German translator of CCSPiP)](https://github.com/SaschaKersken/ClassicComputerScienceProblemsInPhp)
+- [JavaScript implementation by @SaschaKersken (German translator of CCSPiP)](https://github.com/SaschaKersken/ClassicComputerScienceProblemsInJavaScript)
+- [Ruby implementation by @tj84](https://github.com/tj84/cs_problems)
